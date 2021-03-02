@@ -1,0 +1,6 @@
+# Sources
+*.bashrc     text eol=lf
+*.gitconfig  text eol=lf
+*.nanorc     text eol=lf
+*.py         text eol=lf
+*.sh         text eol=lf
